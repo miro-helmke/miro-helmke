@@ -1,12 +1,13 @@
-# Miro
+# Miroslaw Helmke
 
-Softwareentwickler mit Schwerpunkt auf Echtzeitkommunikation, Remote-Access und Desktop-Anwendungen. Ich arbeite hauptsächlich mit Rust und TypeScript.
+Softwareentwickler. Offen für jedes Projekt: Ich arbeite mich schnell in neue Technologien und Fachgebiete ein und bringe Projekte zuverlässig bis zum Release. Hauptsächlich mit Rust und TypeScript.
+
+Portfolio: [miro-helmke.github.io](https://miro-helmke.github.io)
 
 ### Projekte
 
 | Projekt | Beschreibung | Technologien |
 |---|---|---|
-| **[Voice- & Chat-App](https://github.com/miro-helmke/Schisscord-releases)** | Verschlüsselte Desktop-App für Chat, Sprach- und Gruppenanrufe, Bildschirmfreigabe und Dateitransfer, mit eigener Relay-Infrastruktur. | Rust · Tauri 2 · React · Nostr · Linux-Server |
 | **[RustScreen](https://github.com/miro-helmke/rustscreen)** | Selbst gehostete Bildschirmfreigabe und Fernsteuerung im Browser, Zugriff über Code und PIN ohne Portweiterleitung. | Rust · axum · tokio · ffmpeg · WebCodecs |
 | **[InfinityNotes](https://github.com/miro-helmke/InfinityNotes)** | Lokaler Arbeitsbereich auf einer unendlichen Canvas für Notizen, Aufgaben und Projektplanung, mit optionaler KI-Unterstützung. | Tauri 2 · Rust · React · SQLite |
 
